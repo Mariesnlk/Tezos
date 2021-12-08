@@ -1,0 +1,24 @@
+{
+  "mnemonic": [
+    "index",
+    "foot",
+    "lumber",
+    "poem",
+    "rib",
+    "limb",
+    "seed",
+    "object",
+    "scorpion",
+    "mutual",
+    "observe",
+    "quality",
+    "match",
+    "output",
+    "twist"
+  ],
+  "secret": "f6da8540e818ecbeefa5c7b94d67ef0346e42229",
+  "amount": "17909217948",
+  "pkh": "tz1d3ABoo5xvCEc8FiNCJfngGM9H6Tm6Reov",
+  "password": "FmeuDtv04O",
+  "email": "jaxirwcg.sgygwisx@tezos.example.org"
+}
